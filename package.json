@@ -39,7 +39,7 @@
     "typescript": "5.1.6"
   },
   "devDependencies": {
-    "@next/eslint-plugin-next": "^13.4.10",
+    "@next/eslint-plugin-next": "^13.5.4",
     "@swc/jest": "^0.2.26",
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^14.0.0",
